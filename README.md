@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mounira-achouak/mounira-achouak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MOUNIRA ACHOUAK
 
-Here are some ideas to get you started:
+**AI Engineering Student · Web Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things, breaking things, and figuring out why they broke.
+
+[LinkedIn](https://www.linkedin.com/in/mounira-achouak-guessab) · [Email](mailto:mounira.achouak.guessab@gmail.com)
+
+</div>
+
+---
+
+### ABOUT
+
+I'm a fourth-year Computer Science Engineering student at **Université Ferhat Abbas Sétif 1**, specializing in Artificial Intelligence.
+
+I enjoy building web applications, exploring new technologies, and turning ideas into practical projects.
+
+Currently interested in:
+
+* Software Engineering
+* Web Development
+* Artificial Intelligence
+
+---
+
+### TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,python,html,css,react,nextjs,tailwind,nodejs,php,postgres,mysql,sqlite,git,github,docker,linux,figma&perline=7" />
+
+</div>
+
+---
+
+### SELECTED PROJECTS
+
+**01 — Quizora**
+Interactive Web Quiz Platform
+
+An interactive quiz application with user authentication, automatic score calculation, and an admin dashboard for managing questions and viewing results.
+
+`React` `HTML` `Tailwind CSS`
+
+**02 — EDSTOCK**
+Stock Management System
+
+A collaborative project focused on stock management. Contributed to the frontend development.
+
+`React`
+
+**03 — Other Projects**
+
+* SESC Club — Welcome Day Website
+* Wedding Invitation Website
+
+---
+
+### LET'S CONNECT
+
+I'm always interested in learning, collaborating, and building meaningful projects.
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/mounira-achouak-guessab) · [Email](mailto:mounira.achouak.guessab@gmail.com)
+
+</div>
